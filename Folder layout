@@ -1,0 +1,20 @@
+file folder layout:
+Emulator/
+├── index.html
+├── manifest.json
+├── service-worker.js
+├── font.css
+├── localforage.min.js
+├── font/
+│   └── font files
+├── lib/
+│   ├── simlib.wasm
+│   ├── simlib.js
+│   ├── simwrapper.js
+│   ├── comlink.min.js
+│   └── comlink.min.mjs
+└── data/
+    └── CY234/
+        ├── keylog.json
+        ├── face.svg
+        └── core.dat 
